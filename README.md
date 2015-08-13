@@ -1,2 +1,8 @@
-# learn-minecraft
-this is for learning minecraft
+# Heaps of Fun
+
+This is for learning minecraft, you can:
+
+- build
+- craft
+- command
+- and have fun!
