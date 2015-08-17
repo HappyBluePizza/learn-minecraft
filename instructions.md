@@ -24,6 +24,6 @@ Minecraft is not completly realistic there is no gravity except for you, sand, a
 
 You can install or even make mods some of the mods you can install are: The Furniture Mod, The Rollercoaster Mod, The Bathroom Mod, and much much much more!
 
-In minecraft pc there is different stuff then minecraft pe and xbox. If you don't know what you have in your pockets click on it or press the number box it's in in your hotbar and it will say. (If you kill a rabbit you might get rabbit hind)
+In minecraft pc there is different stuff than minecraft pe and xbox. If you don't know what you have in your pockets click on it or press the number box it's in in your hotbar and it will say. (If you kill a rabbit you might get rabbit hind)
 
 
