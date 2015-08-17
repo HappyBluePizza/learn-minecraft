@@ -12,7 +12,7 @@ If you don't know some commands do `/help`,
 To move forward press or hold `w`, to move left and right press or hold `a` or`d`, and finally to move backwards press or hold `s`.
 
 ## inventory
-I got some stuff but where did it go? Press `e` to find out. If your in creative when you press `e` there will be different sections where you can get stuff like: food, armor, tools, and more!
+I got some stuff but where did it go? Press `e` to find out. If you are in creative when you press `e` there will be different sections where you can get stuff like: food, armor, tools, and more!
 
 ## I Command!!!!
 To place,eat, or use things hold command and click with your mouse at where you want to put it or hold your mouse down and you'll start eating.. If you want to break or hurt something hold or click it with your mouse.
